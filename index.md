@@ -1,7 +1,9 @@
 # Digital Library
 **Nama:** Nayla Najwa  
-**NIM:** [13040124140099]
+**NIM:** 13040124140099
+
 Selamat Datang di Perpustakaan Digital
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Draft Humas](ebook/Draft%20Humas.pdf) – Nayla Najwa (2026) 
